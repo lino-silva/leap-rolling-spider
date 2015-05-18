@@ -1,0 +1,22 @@
+{
+  "name": "leap-rolling-spider",
+  "homepage": "https://github.com/lino-silva/leap-rolling-spider/",
+  "authors": [
+    "Lino Silva <lino@lino.ninja>"
+  ],
+  "description": "Control the Parrot Rolling Spider with the Leap Motion",
+  "main": "app.js",
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leapjs": "*",
+    "parrot-rolling-spider": "*",
+    "hr": "*"
+  } 
+}
